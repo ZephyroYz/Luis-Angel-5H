@@ -1,0 +1,15 @@
+public class Main {
+//* Método principal que inicia la ejecución del programa.
+Imprime el mensaje "Hola mundo" en la consola
+
+// * Objetivo:
+// * - Mostrar el uso básico de la función
+//* System.out.printf() para imprimir en la consola.
+
+public static void main(String[] args) {
+System.out.printf("Hola mundo");
+// * Imprime el mensaje “Hola mundo” en la consola
+}
+
+}
+// * Finalización del programa
