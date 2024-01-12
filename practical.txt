@@ -1,0 +1,19 @@
+
+* UPTx - Fundamentos de programaci¢n OO
+* Practica No. 1      Grupo: 5H
+* Objetivo: Mi primer programa
+* Integrantes: Luis Angel Hernandez Archundia
+* Modificaci¢n: 11/ene/2024
+*/
+public class Main {
+	public static main(String[] args {
+		//Mensaje de bienvenida owo
+		System.out.printf("Bienvenidos al facinante mundo de JAVA e.e");
+	}
+}
+
+
+
+
+
+
